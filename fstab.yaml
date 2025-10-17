@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/aemsites/da-block-collection/
+    url: https://drive.google.com/drive/folders/1DTvPdZMNy58IXm1M0sDZTzMeGDbHVN57
     type: markup

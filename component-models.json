@@ -274,29 +274,5 @@
         "valueType": "string"
       }
     ]
-  },
-	{
-	  "id": "promo",
-	  "title": "Promo",
-	  "fields": [
-		{ "name": "title",   "type": "text",     "label": "Title" },
-		{ "name": "body",    "type": "richtext", "label": "Body" },
-		{ "name": "image",   "type": "image",    "label": "Image (optional)" },
-		{ "name": "ctaText", "type": "text",     "label": "CTA Text" },
-		{ "name": "ctaLink", "type": "link",     "label": "CTA Link" },
-
-		/* Block options (variants) using the protected 'classes' field) */
-		{
-		  "name": "classes",
-		  "type": "select",
-		  "label": "Layout",
-		  "options": [
-			{ "name": "Default",       "value": "" },
-			{ "name": "Side-by-side",  "value": "side-by-side" },
-			{ "name": "Compact",       "value": "compact" }
-		  ]
-		}
-	  ]
-	}
-
+  }
 ]

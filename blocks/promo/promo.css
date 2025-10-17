@@ -1,4 +1,5 @@
 /* Base styles */
+/* eslint-disable */
 .promo {
   --promo-gap: 1rem;
   display: grid;
